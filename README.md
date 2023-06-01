@@ -5,7 +5,7 @@ Il s'agit de mon 8ème projet dans le cadre de ma formation réalisé à l’aid
 Vous trouverez dans ce projet:
 - Mockup: une version simplifié du Dashboard final
 - Présentation: c'est l'introduction qui précède la démonstration du Dashboard
-- Dashboard: il s'agit de capture d'écran qui vous montre un apperçue des Dashboards
+- Dashboard: il s'agit de capture d'écran qui vous montre un apperçu des Dashboards
 
 Dans ce projet j'ai appris à :
 -	Synthétiser des résultats à destination d'un client
