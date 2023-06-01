@@ -3,7 +3,7 @@
 Il s'agit de mon 8ème projet dans le cadre de ma formation réalisé à l’aide du logiciel PowerBI. Dans ce projet je devais aider l’ONG DWFA (Drinking Water For All) à localiser les pays avec des problèmes d’accès à l’eau potable. Pour cela en partant des besoins de mon client j’ai présenté un Mockup, un Blue print et finalement rendu un tableau de bord interactif permettant de sélectionner un certain type de pays sur de nombreux critères.
 
 Vous trouverez dans ce projet:
-- Mockup: une version simplifié du Dashboard final
+- Mockup: une version simplifiée du Dashboard final
 - Présentation: c'est l'introduction qui précède la démonstration du Dashboard
 - Dashboard: il s'agit de capture d'écran qui vous montre un apperçu des Dashboards
 
